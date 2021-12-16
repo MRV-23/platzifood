@@ -1,7 +1,6 @@
 {
   "name": "platzifood",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^10.4.0",
+    "live-server": "^1.2.1",
+    "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0",
-    "tailwindcss": "^3.0.5"
-  }
+    "tailwindcss": "^3.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinRV299/platzifood.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MartinRV299/platzifood/issues"
+  },
+  "homepage": "https://github.com/MartinRV299/platzifood#readme",
+  "description": ""
 }
